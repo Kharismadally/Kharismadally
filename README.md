@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kharismadally
-- 👀 I’m interested in data analysist
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data analysist
+- 👀 I’m enthusiast in data
+- 🌱 I’m currently learning about data analytics
+- 💞️ I’m looking to collaborate on business intelligence
 - 📫 How to reach me just hit me on instagram @kharismadally
 
 <!---
